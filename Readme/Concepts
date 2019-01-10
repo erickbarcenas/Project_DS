@@ -1,0 +1,13 @@
+[Dataset](https://es.wikipedia.org/wiki/Conjunto_de_datos): fichero, conjunto de datos que corresponde a los contenidos de una única tabla de base de datos o una única matriz de datos estadística, donde cada columna de la tabla representa una variable en particular, y cada fila representa a un miembro determinado del conjunto de datos en cuestión.
+![fichero]()
+
+[CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas): Comma-separated values. Son un tipo de documento en formato abierto sencillo para representar datos en forma de tabla, en las que las columnas se separan por comas (o punto y coma en donde la coma es el separador decimal: Chile, Perú, Argentina, España, Brasil...) y las filas por saltos de línea.
+# Ejemplo:
+![CSV](www)
+
+Delimitador: coma (,)
+
+git rm --cached Python_DataScience
+
+git config [--global] user.name "erickbarcenas"
+git config --global user.email "erick777wild@gmail.com.mx"
